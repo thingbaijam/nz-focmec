@@ -1,7 +1,7 @@
 # nz-focmec
 Characterization of Earthquake Focal Mechanisms in New Zealand
 
-A documentation is provided in nzfocmec.pdf. 
+A short documentation of this repository is available [here](https://github.com/thingbaijam/nz-focmec/blob/main/NZ-focmec.pdf) 
 
 
 ### If you use the NZ-focmec for your study, please cite the following 
