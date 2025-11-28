@@ -1,8 +1,10 @@
 # nz-focmec
 Characterization of Earthquake Focal Mechanisms in New Zealand
 
+A documentation is provided in nzfocmec.pdf. 
 
-### References:
+
+### If you use the NZ-focmec for your study, please cite the following 
 
 Thingbaijam, K.K.S, Gerstenberger, M.C., Rollins, C., Rastin, S.J., Rhoades, D., Iturrieta,
 P., Van Dissen, R., and Christophersen, A. (2022) A Framework for a Distributed Seismicity
